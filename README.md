@@ -4,9 +4,11 @@
 - We will extracting the dominant 'K' colors from the image using KMeans (say 4).
 - We will be applying KMeans to each pixels, which will be reassigned to closest of the K-colors, leading to segmentation.
 - The output of the model is shown below : 
-<p align="left">
-  <img src="https://github.com/NAVANEETHELITE/KMEANS_IMAGE_SEGMENTATION/blob/main/IMAGE%20SEGMENTATION%20USING%20KMEANS/OUTPUT/img1.png" width="25%" title="ORIGINAL IMAGE" alt="Original image">
-</p>
-<p align="right">
-  <img src="https://github.com/NAVANEETHELITE/KMEANS_IMAGE_SEGMENTATION/blob/main/IMAGE%20SEGMENTATION%20USING%20KMEANS/OUTPUT/img2.png" width="25%" title="SEGMENTED IMAGE" alt="Segmented image">
- </p>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/NAVANEETHELITE/KMEANS_IMAGE_SEGMENTATION/blob/main/IMAGE%20SEGMENTATION%20USING%20KMEANS/OUTPUT/img1.png" title='ORIGINAL IMAGE' alt="Original" style="width:50%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/NAVANEETHELITE/KMEANS_IMAGE_SEGMENTATION/blob/main/IMAGE%20SEGMENTATION%20USING%20KMEANS/OUTPUT/img2.png" title="SEGMENTED IMAGE" alt='Segmented' style="width:50%">
+  </div>
+</div>
